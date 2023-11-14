@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Elevator3
+comment1.params=
+comment1.target=Elevator3()
+comment2.params=
+comment2.target=void\ disp()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=
+comment4.target=void\ ElevatorUp()
+comment5.params=
+comment5.target=void\ ElevatorDown()
+comment6.params=
+comment6.target=void\ Emergency()
+comment7.params=
+comment7.target=void\ exit()
+numComments=8
